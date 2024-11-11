@@ -1,18 +1,35 @@
-h1{
-    text-align: center;
-    color: green;
-}
-
-h2{
-    text-align: center;
-    color: rebeccapurple;
-}
-
 body{
     background-color: black;
 }
+
+#titolo{
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+    color: rebeccapurple;
+}
+
 
 p{
     color: aliceblue;
 }
 
+#immagine{
+    text-align: center;
+}
+
+
+table {
+border-collapse:collapse
+}
+td, th {
+border:1px solid #ddd;
+padding:8px;
+}
+
+
+#celle{
+    background-color: darkred;
+}
